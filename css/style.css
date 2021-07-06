@@ -10,6 +10,7 @@ h1 {
 }
 section {
   display: flex;
+  margin-bottom: 150px;
 }
 .half-width {
   width: 50%;
@@ -26,3 +27,12 @@ section {
   border-radius: 30px;
   box-shadow: gray;
 }
+.contact-button {
+    text-decoration: none;
+    background-color: #bc1823;
+    padding: 10px 40px;
+    color: whitesmoke;
+    border-radius: 30px;
+    box-shadow: gray;
+  }
+
